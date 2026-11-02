@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chachingt.com/sitemap.xml
+Sitemap: https://chach.app/sitemap.xml
