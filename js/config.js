@@ -7,6 +7,7 @@ export const CONFIG = {
   STORE_KEY: 'creaweb_estado_v1',
   RESERVADOS: ['www', 'admin', 'mail', 'correo', 'ftp', 'api', 'app', 'panel', 'creaweb', 'soporte', 'ayuda', 'test'],
   TEMPLATES: [
+    { nombre: 'Empresas GT', icon: 'house', url: 'https://empresagt.com' }, 
     { nombre: 'Hospedaje Ku´ Kanche', icon: 'house', url: 'https://hospedajekukanche.chach.workers.dev' },     
     { nombre: 'Huevos JD', icon: 'egg', url: 'https://huevosjd.empresasgt.workers.dev' },
     { nombre: 'La Ola Cevichera', icon: 'utensils', url: 'https://laolacevichera.empresasgt.workers.dev' },    
